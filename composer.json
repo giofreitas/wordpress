@@ -1,0 +1,22 @@
+{
+	"name": "giofreitas/wordpress",
+	"type": "metapackage",
+	"description": "Just a package that set everything you need to get WordPress running successfully with composer.",
+	"license": "MIT",
+	"keywords": [
+		"wordpress",
+		"composer",
+		"wp-config"
+	],
+	"authors": [
+		{
+			"name": "Gio Freitas",
+			"email": "giodefreitas@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.4",
+		"johnpbloch/wordpress": "4.9.5",
+		"gio/wordpress-composer-setup": "dev-master"
+	}
+}
