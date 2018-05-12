@@ -17,6 +17,6 @@
 	"require": {
 		"php": ">=5.4",
 		"johnpbloch/wordpress": "4.9.5",
-		"giofreitas/wordpress-composer-setup": "@dev"
+		"giofreitas/wordpress-composer-setup": "0.1"
 	}
 }
