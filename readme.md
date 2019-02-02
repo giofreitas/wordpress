@@ -8,7 +8,7 @@ To Setup a WordPress installation including wp-config.php, add the following to 
 
 ```
 "require": {
-    "giofreitas/wordpress": "4.9.9"
+    "giofreitas/wordpress": "5.0.0"
 }
 ```
 
